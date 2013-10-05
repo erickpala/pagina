@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title> MOSTRACION DE MOTOS </title>
+<style type="text/css">
+header
+{
+background-color: #333;
+color :#rrr;
+
+}
+
+</style>
+</head>
+<body>
+
+<video  width="200" height="200" controls>
+	<source src="video/hacker.MP4" >	
+</video>
+///////<figure>
+	<img src="pagina web/1.jpg" alt="yamaha">
+	<img src="pagina web/2.jpg" alt=suzuki">
+	<img src="pagina web/3.jpg" alt="honda">
+	<figcaption>son las mejores motos del ecuador reconmendadas</figcaption>
+</figure>//////////
+<menu type="toolbar">
+	<command id="align-left" label="Izquierda" onclick="setAlign('left')">
+	<command id="align-center" label="Centrado" onclick="setAlign('center')">
+	<command id="align-right" label="Derecha" onclick="setAlign('right')">
+</menu>
+<input type="button" command="align-left" value="Alinear a la izquierda">
+
+
+<form onsubmit="return false" oninput="o.value = parseInt(a.value) + parseInt(b.value)">
+	<input name="a" type="number" step="any"> +
+	<input name="b" type="number" step="any"> =
+	<output name="o"></output>
+</form>
+<dialog>
+ <dt><a href="http://twitter.com/akamike">@akamike</a>, <time datetime="2009-08-11T12:35:54">13 minutes ago</time></dt>
+ <dd>Where is a good place to eat in town?</dd>
+ <dt><a href="http://twitter.com/brucel">@brucel</a>, <time datetime="2009-08-11T12:37:56">11 minutes ago</time></dt>
+ <dd><a href="http://twitter.com/akamike">@akamike</a> Have your tried The Swine's Flu pub lunches?</dd>
+ <dt><a href="http://twitter.com/Rich_Clark">@Rich_Clark</a>, <time datetime="2009-08-11T12:38:04">11 minutes ago</time></dt>
+ <dd><a href="http://twitter.com/akamike">@akamike</a> If you like seafood, try the restaurants at the waterfront</dd>
+ <dt><a href="http://twitter.com/jackosborne">@jackosborne</a>, <time datetime="2009-08-11T12:40:02">9 minutes ago</time></dt>
+ <dd><a href="http://twitter.com/akamike">@akamike</a> What <a href="http://twitter.com/brucel">@brucel</a> said, or there are lots of good bakeries on the high street.</dd>
+ <dt><a href="http://twitter.com/spambot148">@spambot148</a>, <time datetime="2009-08-11T12:45:16">4 minutes ago</time></dt>
+ <dd><a href="http://twitter.com/akamike">@akamike</a> Gain 1000 followers in 5 minutes!</dd>
+</dialog>
+
+<ruby>
+mama <rt><rp>(</rp>xerickˋ<rp>)</rp></rt>
+</ruby>
+
+<ruby>
+bjhdjcbds <rt><rp>(</rp>dbfsfkdfdvdds svfˋ<rp>)</rp></rt>
+</ruby> 
+
+<section>
+<article>section</article>
+<aside>informaixll</aside>
+</section>
+
+
+<p>
+To learn AJAX, you must be familiar with the XML<wbr>Http<wbr>Request Object.
+</p>
+</body>
+</html>
+
+
+
+
+
+
+
